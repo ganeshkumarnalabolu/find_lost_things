@@ -56,18 +56,6 @@ Run the following in the terminal:
 
 flutter run -d <emulator-id>
 
-Screenshots
-
-(Add your screenshots here)
-
-Add Item screen
-
-Home screen
-
-Search screen
-
-Details + Resolved screen
-
 Conclusion
 
 This project helped me learn:
