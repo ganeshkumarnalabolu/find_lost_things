@@ -1,11 +1,8 @@
-// lib/main.dart
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() => runApp(const MyApp());
-
-// App made by <YourName>
 
 class LostItem {
   String id;
